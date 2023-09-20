@@ -1,4 +1,5 @@
 # CVIP-Web-Development-Internship
-As an intern with Coder Cave, I was selected for web development. I got tasks to complete in two phases, and in each phase there was a golden task and a normal task. I came up with both the normal task as Netflix Clone Page and the golden task of creating an online code editor, for which I created a clone.
+I receive the offer of web development to in intern at caderscave. i am highly appreciative of such an offer.
 
-I undertook this internship project and completed it under the guidance of Coder Cave Management. I am grateful to their staff for their patience and assistance during my training. It was a good learning experience for me to work with them. These skills would help me expand my resume and advance my career.
+i got two phase every phase having 2 task to complete of project on time, first normal task and second is golden task, and also having additional project. and will do my best to learn and alonside them.
+i accept guidelines to complete the project of coderscave, This project help me develop myself and my advance career.
